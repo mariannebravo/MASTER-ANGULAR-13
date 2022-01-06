@@ -1,0 +1,15 @@
+.list-group-item-heading,
+.list-group-item-text {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.img-responsive {
+  max-height: 50px;
+  border-radius: 15px;
+  border: 2px solid whitesmoke;
+}
+
+a {
+  cursor: pointer;
+}
