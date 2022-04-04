@@ -13,7 +13,3 @@ Develop modern, complex, responsive and scalable web applications with Angular. 
 - HTTP Requests
 - Authentication
 - Dynamic Compononents
-
-## My Opinion 🏷️
-
-🖇️ soon the live link...
